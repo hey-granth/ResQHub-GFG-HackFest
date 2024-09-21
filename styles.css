@@ -1,0 +1,18 @@
+
+
+.Renewable {
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(204, 103, 235);
+    
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #333;
+    
+}
+
+#results {
+    margin-top: 20px;
+}
